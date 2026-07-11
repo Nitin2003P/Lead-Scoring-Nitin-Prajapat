@@ -48,6 +48,10 @@ Lead-Scoring-Project/
 
 ---
 
+## Live Demo
+
+[Try the Streamlit App](https://lead-score-by-nitin-prajapat.streamlit.app/)
+
 ## How to Run
 
 Install all libraries.
