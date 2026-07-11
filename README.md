@@ -1,5 +1,11 @@
 # Lead Scoring Project
 
+## Live Demo
+
+[Try the Streamlit App](https://lead-score-by-nitin-prajapat.streamlit.app/)
+
+---
+
 ## About Project
 
 This project is based on the Lead Scoring dataset of X Education.
@@ -47,10 +53,6 @@ Lead-Scoring-Project/
 ```
 
 ---
-
-## Live Demo
-
-[Try the Streamlit App](https://lead-score-by-nitin-prajapat.streamlit.app/)
 
 ## How to Run
 
